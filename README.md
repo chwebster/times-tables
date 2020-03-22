@@ -7,17 +7,19 @@
 
 ## Installation
 
-Two options:
+Two options. You can either
 
-1. Click the green "Clone or Download" button.
+* Click the green "Clone or Download" button.
 
-2. Open a terminal and navigate to where you want the download to go. Type
+OR
+
+* Open a terminal and navigate to where you want the download to go. Type
 
 ```
 git clone https://github.com/chwebster/times-tables
 ```
 
-Now you can run the program by typing
+Now you can run the program from the command line by typing
 
 ```
 python times_tables.py

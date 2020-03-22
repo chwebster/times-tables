@@ -34,4 +34,6 @@ My simple Python program is not at all colourful, but it does make you type your
 
 If you are learning Python you might like to try playing around with this program. You could come up with some different encouraging phrases or make a version that only sets questions from a limited set of tables, e.g. 2 to 5.
 
+I built in some basic error handling, so the program will not crash if you hit the wrong key by mistake or swear at it.
+
 Have fun!

@@ -26,7 +26,7 @@ python times_tables.py
 ```
 
 
-## Why I wrote this program
+## About
 
 This was one of the first Python programs I wrote. It was a good exercise for me, and it also helped my kids learn their tables. There are lots of nice apps and websites out there that make times tables practice very colourful and engaging. However, most of them require you to click or tap on buttons. This is a different learning process to the action of typing in your answer using the number keys on a keyboard.
 
